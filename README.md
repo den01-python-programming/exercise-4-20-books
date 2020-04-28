@@ -4,7 +4,7 @@ Write a program that first reads book information from the user. The details to 
 
 After this the user is asked for what is to be printed. If the user inputs "everything", all the details are printed: the book titles, the numbers of pages and the publication years. However, if the user enters the string "name", only the book titles are printed.
 
-It is probably worthwhile to implement a class called `Book` to represent a book. There are two points in total available for this exercise.
+It is probably worthwhile to implement a class called `Book` to represent a book. There is no automatic testing in this exercise, so you should test your code before you submit it. 
 
 ```plaintext
 Title: **To Kill a Mockingbird**
